@@ -1,4 +1,6 @@
 /ComputerVision/Data
 /ComputerVision/checkPoints
 /ComputerVision/SimplePants
-ComputerVision
+/ComputerVision/saved_model
+*.data-00000-of-00001
+*.data-00000-of-00001
