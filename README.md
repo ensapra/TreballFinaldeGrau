@@ -5,10 +5,12 @@ Aquest repositori conté el codi, i els diferents articles que s'han utilitzat p
 Assistive robots address a large number of problems that require a solution to help, with the maximum
 flexibility, the user. A robot must be able to treat and manipulate a large number of objects inside a
 house, whether they are rigid or deformable.
+
 Among such objects there are garments, which have a high complexity of categorization due to the
 difficulty to model the possible states (potentially infinite, due to their deformability) in which they can
 be found for tasks such as storing clothes, folding, smoothing, or simply transporting them from one
 point to the other.
+
 This work presents a methodology to discern, from an image, the existence of pants, and their
 classification in four pre-established states, separating these between pants that are completely insideout or right-side out and determining whether the pieces are facing upwards or downwards.
 The results obtained demonstrate an effective and fast method for classification, observing the
@@ -23,5 +25,4 @@ El repositori es força simple:
 ## Referències finals
 
 https://www.iri.upc.edu/pfc/show/203
-
 https://upcommons.upc.edu/handle/2117/378136
